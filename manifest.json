@@ -1,0 +1,6 @@
+{
+  "name": "wwg-map",
+  "short_name": "wwg-map",
+  "start_url": "/",
+  "display": "standalone"
+}
