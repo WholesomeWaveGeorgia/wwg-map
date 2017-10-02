@@ -172,39 +172,11 @@
       "type": "document",
       "weight": 1
     },
-    "bower_components/google-map/google-map.html": {
-      "type": "document",
-      "weight": 1
-    },
     "bower_components/google-apis/google-maps-api.html": {
       "type": "document",
       "weight": 1
     },
     "bower_components/iron-jsonp-library/iron-jsonp-library.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "bower_components/iron-resizable-behavior/iron-resizable-behavior.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "bower_components/iron-selector/iron-selector.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "bower_components/iron-selector/iron-multi-selectable.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "bower_components/iron-selector/iron-selectable.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "bower_components/iron-selector/iron-selection.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "bower_components/google-map/google-map-marker.html": {
       "type": "document",
       "weight": 1
     }
